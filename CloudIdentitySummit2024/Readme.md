@@ -8,3 +8,6 @@ In the session @kennethvs and I will show you how to automate your Conditional A
 We showed how to ingest data into Log Analytics using custom logs. If you want more information about how to configure, can find my blog posts here:
 
 https://rozemuller.com/route-own-intune-data-to-log-analytics-using-custom-logs/
+
+
+The workflow for testing Conditional Access policies is stored at this location: https://github.com/srozemuller/Identity/blob/main/.github/workflows/catester.yaml
